@@ -255,10 +255,6 @@ http://10.0.0.1:7088/rtp/239.76.252.230:9000?fcc=124.232.149.47:15970
 http://10.0.0.1:7088/rtp/239.76.252.111:9000?fcc=124.232.149.47:15970
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="其他",优漫卡通
 http://10.0.0.1:7088/rtp/239.76.252.112:9000?fcc=124.232.149.47:15970
-#EXTINF:-1 tvg-name="前院" tvg-logo="https://live.fanmingming.com/tv/前院.png" group-title="摄像机",前院
-rtsp://admin:xg789852123@10.0.0.13:554/h265/ch1/main/av_stream
-#EXTINF:-1 tvg-name="后院" tvg-logo="https://live.fanmingming.com/tv/后院.png" group-title="摄像机",后院
-rtsp://admin:xg789852123@10.0.0.12:554/h265/ch1/main/av_stream
 #EXTINF:-1 tvg-name="欢笑剧场测试1" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场测试1.png" group-title="4K",欢笑剧场测试1
 http://10.0.0.1:7088/rtp/239.76.254.118:9000?fcc=124.232.149.47:15970
 #EXTINF:-1 tvg-name="欢笑剧场测试2" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场测试2.png" group-title="4K",欢笑剧场测试2
